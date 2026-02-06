@@ -21,4 +21,6 @@ O modelo foi treinado com um dataset sintético que simula diferentes condiçõe
 1. Clone o repositório.
 2. Instale as dependências:
    ```bash
-   pip install -r requirements.txt
+3. Execute a aplicação:
+   ```bash
+   streamlit run agricola.md
