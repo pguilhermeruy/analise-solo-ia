@@ -1,4 +1,5 @@
 # 🌱 AgriTech AI - Análise de Solo Inteligente
+🔗 **Acesse o Projeto Online:** [Clique aqui para testar](https://solo-ia-guilhermeruy.streamlit.app/)
 
 Um sistema de Machine Learning desenvolvido para auxiliar agrônomos e produtores na tomada de decisão sobre a viabilidade do solo para plantio.
 
@@ -25,4 +26,5 @@ O modelo foi treinado com um dataset sintético que simula diferentes condiçõe
 3. Execute a aplicação:
    ```bash
    streamlit run agricola.md
+
 
