@@ -33,5 +33,10 @@ O sistema vai além da predição simples, atuando em três frentes:
    streamlit run agricola.py
 
 ## 📊 Prints do Dashboard
+**Monitoramento de KPIs e Análise de Dispersão**
+
+
+
 <img width="317" height="317" alt="dashboard-kpi" src="https://github.com/user-attachments/assets/4416ce4f-c571-43ed-99a6-ac6dbc01963f" /> 
 <img width="317" height="317" alt="dashboard-dispersao" src="https://github.com/user-attachments/assets/6d454177-96b8-49c3-927d-178c8568e7e3" />
+
